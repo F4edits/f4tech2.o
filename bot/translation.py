@@ -11,7 +11,7 @@ Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥�
 
 For More Details Click Help Button Below..
 
-@M_STER_TECH
+@Cinemapyscho
 </i>"""    
     
     HELP_TEXT = """
@@ -44,10 +44,10 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@M_STER_TECH
+@Cinemapyscho
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : @CYBER_YT1
+<b>➥ Creator</b> : @Cinemapyscho
 """
